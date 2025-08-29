@@ -1,4 +1,4 @@
-# 🚀 Blessing Uche — Portfolio & ML Research  
+# Blessing Uche — Portfolio & ML Research  
 
 Hi, I’m **Blessing Uche** — a Computer Science student at Keele University (expected First Class) and software engineer with experience across **frontend, backend, and AI research**.  
 
